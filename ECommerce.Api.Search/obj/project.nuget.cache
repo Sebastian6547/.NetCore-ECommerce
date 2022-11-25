@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eyup9m065E2dsYClXXIW13CX7F87ZnEoLlawUjsgH7ww7rqaR86bQU+41mGPckrwUtXhgIGIlsjyh8A7pfx64A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\utilisateur\\Documents\\school\\semester 5\\web3\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\utilisateur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
