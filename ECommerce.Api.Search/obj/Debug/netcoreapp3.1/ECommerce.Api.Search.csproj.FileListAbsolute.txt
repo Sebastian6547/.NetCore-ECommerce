@@ -17,3 +17,17 @@ C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Se
 C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
 C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
 C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.genruntimeconfig.cache
+C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\Users\utilisateur\Documents\school\semester 5\web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CopyComplete

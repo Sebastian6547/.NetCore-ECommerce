@@ -32,15 +32,15 @@ namespace ECommerce.Api.Search.Sercices
                 {
                     var content = await response.Content.ReadAsByteArrayAsync();
                     var options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
-                    var result = JsonSerializer.Deserialize<IEnumerable<Order>>(content);
-                    return (true, result, null);
+                    var result = JsonSerializer.Deserialize<IEnumerable<Order>>(content, options);
+                    return (true, result, response.ReasonPhrase);
                 }
                 return (false, null, response.ReasonPhrase);
             }
             catch (Exception ex)
             {
-
-                throw;
+                logger?.LogError(ex.ToString());
+                return (false, null, ex.Message);
             }
         }
     }
